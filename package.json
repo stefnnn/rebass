@@ -21,8 +21,8 @@
     "jest-emotion": "^10.0.14",
     "jest-styled-components": "^6.3.3",
     "lerna": "^3.16.4",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
     "react-test-renderer": "^16.8.6"
   },
   "resolutions": {
